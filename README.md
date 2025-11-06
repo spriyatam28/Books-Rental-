@@ -8,9 +8,9 @@ This system simulates a library with **user management**, **book borrowing polic
 ## Primary Objectives
 
 - [ ] Apply **OOP principles** within a **layered architecture** (Controller → Service → Repository → Entity)
-- [ ]Build **REST APIs** using **Spring Boot + Spring Data JPA**
-- [ ]Write **Unit Tests (JUnit)** and **Integration Tests**
-- [ ]Design for scalability — capable of handling **up to 3000 requests per second (RPS)** under **read-heavy workloads**
+- [ ] Build **REST APIs** using **Spring Boot + Spring Data JPA**
+- [ ] Write **Unit Tests (JUnit)** and **Integration Tests**
+- [ ] Design for scalability — capable of handling **up to 3000 requests per second (RPS)** under **read-heavy workloads**
 
 ---
 
