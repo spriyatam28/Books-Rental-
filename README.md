@@ -28,4 +28,4 @@ This system simulates a library with **user management**, **book borrowing polic
 
 ---
 
-## Licence: MIT
+## Licence: [MIT](/LICENSE.md)
